@@ -8,4 +8,40 @@ What is local Git repository?
 Git local repository is the one on which we will make local changes, 
 typically this local repository is on our computer.
 
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Git Pull / Pull Request
+
+
+The term pull is used to receive data from GitHub.
+ It fetches and merges changes from the remote server to your working directory. 
+The git pull command is used to pull a repository.
+
+Pull request is a process for a developer to notify team members that they have completed a feature. 
+Once their feature branch is ready, the developer files a pull request via their remote server account.
+Pull request announces all the team members that they need to review the code and merge it into the 
+master branch.
+
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+git conflict
+
+
+Git can handle most merges on its own with automatic merging features. 
+A conflict arises when two separate branches have made edits to the same line in a file,
+ or when a file has been deleted in one branch but edited in the other.
+ Conflicts will most likely happen when working in a team environment.
+
+What are merge conflicts in Git?
+
+
+Image result for what is git conflict
+A merge conflict is an event that takes place when Git is unable to automatically resolve 
+differences in code between two commits. Git can merge the changes automatically only 
+if the commits are on different lines or branches. ... To prevent such conflicts, 
+developers work in separate isolated branches.
+
+
 
