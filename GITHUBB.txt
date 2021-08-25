@@ -44,4 +44,6 @@ if the commits are on different lines or branches. ... To prevent such conflicts
 developers work in separate isolated branches.
 
 
+----------------------------------------------------------------------------------
 
+author
